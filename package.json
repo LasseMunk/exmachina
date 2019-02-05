@@ -1,0 +1,24 @@
+{
+  "name": "exmachina",
+  "version": "1.0.0",
+  "description": "website for multichannel sound and video festival deus ex machina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LasseMunk/exmachina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LasseMunk/exmachina/issues"
+  },
+  "homepage": "https://github.com/LasseMunk/exmachina#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "express": "^4.16.4"
+  }
+}
